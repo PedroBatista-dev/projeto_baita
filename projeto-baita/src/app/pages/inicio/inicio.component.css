@@ -33,11 +33,11 @@
   position: absolute;
   width: 145px;
   top: 228px;
-  left: 52px;
+  left: 60px;
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
-  font-size: 12px;
+  font-size: 14px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -54,59 +54,59 @@
 
 .div {
   position: absolute;
-  width: 145px;
-  top: 785px;
-  left: 143px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 12px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    width: 160px;
+    top: 772px;
+    left: 141px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .text-wrapper-2 {
   position: absolute;
-  width: 145px;
-  height: 33px;
-  top: 1043px;
-  left: 143px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 12px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    width: 145px;
+    height: 33px;
+    top: 1043px;
+    left: 135px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .text-wrapper-3 {
   position: absolute;
-  width: 145px;
-  top: 1301px;
-  left: 143px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 12px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    width: 145px;
+    top: 1301px;
+    left: 138px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .text-wrapper-4 {
   position: absolute;
-  width: 145px;
-  top: 1548px;
-  left: 143px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 12px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    width: 145px;
+    top: 1545px;
+    left: 132px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .overlap-2 {
@@ -119,16 +119,16 @@
 
 .p {
   position: absolute;
-  width: 145px;
-  top: 200px;
-  left: 12px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 12px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    width: 155px;
+    top: 186px;
+    left: 2px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .mokapiscas-de-panga {
@@ -152,11 +152,11 @@
   position: absolute;
   width: 145px;
   top: 219px;
-  left: 70px;
+  left: 76px;
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
-  font-size: 12px;
+  font-size: 14px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -164,16 +164,16 @@
 
 .text-wrapper-6 {
   position: absolute;
-  width: 193px;
-  top: 466px;
-  left: 46px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 12px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    width: 180px;
+    top: 453px;
+    left: 51px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .img {
@@ -205,11 +205,11 @@
   position: absolute;
   width: 145px;
   top: 212px;
-  left: 33px;
+  left: 20px;
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
-  font-size: 12px;
+  font-size: 14px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -232,7 +232,7 @@
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
-  font-size: 12px;
+  font-size: 14px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -249,12 +249,12 @@
 .text-wrapper-9 {
   position: absolute;
   width: 145px;
-  top: 0;
-  left: 14px;
+  top: -18px;
+  left: 18px;
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
-  font-size: 12px;
+  font-size: 14px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -269,7 +269,7 @@
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
-  font-size: 12px;
+  font-size: 14px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -292,7 +292,7 @@
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
-  font-size: 12px;
+  font-size: 14px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -307,17 +307,17 @@
 }
 
 .text-wrapper-12 {
-  width: 175px;
-  top: 200px;
-  left: 0;
-  position: absolute;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 12px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+  width: 185px;
+    top: 187px;
+    left: -6px;
+    position: absolute;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .FILEZINHO-EMPANADO-3 {
@@ -330,16 +330,16 @@
 
 .text-wrapper-13 {
   position: absolute;
-  width: 145px;
-  top: 1043px;
-  left: 796px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 12px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    width: 145px;
+    top: 1028px;
+    left: 796px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .text-wrapper-14 {
@@ -350,7 +350,7 @@
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
-  font-size: 12px;
+  font-size: 14px;
   text-align: center;
   letter-spacing: 0;
   line-height: normal;
@@ -358,16 +358,16 @@
 
 .text-wrapper-15 {
   position: absolute;
-  width: 145px;
-  top: 1548px;
-  left: 791px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 12px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    width: 155px;
+    top: 1530px;
+    left: 788px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .FILEZINHO-EMPANADO-4 {
