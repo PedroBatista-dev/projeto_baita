@@ -1,0 +1,46 @@
+.overlap-group-wrapper {
+  background-color: #bf9268;
+  width: 1080px;
+  height: 1920px;
+}
+
+.overlap-group {
+  position: relative;
+  height: 1920px;
+}
+
+.fundo {
+  position: absolute;
+  width: 1078px;
+  height: 1920px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.prato-camaro {
+  position: absolute;
+  width: 1080px;
+  height: 905px;
+  top: 1015px;
+  left: 0;
+  object-fit: cover;
+}
+
+.FICHA-TCNICA-camaro {
+  position: absolute;
+  width: 540px;
+  height: 764px;
+  top: 196px;
+  left: 449px;
+  object-fit: cover;
+}
+
+.CAMARO-CINZA {
+  position: absolute;
+  width: 312px;
+  height: 362px;
+  top: 397px;
+  left: 77px;
+  object-fit: cover;
+}

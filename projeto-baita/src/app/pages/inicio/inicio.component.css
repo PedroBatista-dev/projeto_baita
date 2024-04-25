@@ -1,0 +1,446 @@
+.overlap-group-wrapper {
+  background-color: #ffffff;
+  width: 1080px;
+  height: 1920px;
+}
+
+.overlap-group {
+  position: relative;
+  height: 1920px;
+  background-image: url(../../../assets/fundo.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.CAMARO-CINZA {
+  position: absolute;
+  width: 160px;
+  height: 187px;
+  top: 1351px;
+  left: 124px;
+  object-fit: cover;
+}
+
+.overlap {
+  position: absolute;
+  width: 269px;
+  height: 261px;
+  top: 310px;
+  left: 91px;
+}
+
+.text-wrapper {
+  position: absolute;
+  width: 145px;
+  top: 228px;
+  left: 52px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.FILEZINHO-EMPANADO {
+  position: absolute;
+  width: 269px;
+  height: 243px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.div {
+  position: absolute;
+  width: 145px;
+  top: 785px;
+  left: 143px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.text-wrapper-2 {
+  position: absolute;
+  width: 145px;
+  height: 33px;
+  top: 1043px;
+  left: 143px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.text-wrapper-3 {
+  position: absolute;
+  width: 145px;
+  top: 1301px;
+  left: 143px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.text-wrapper-4 {
+  position: absolute;
+  width: 145px;
+  top: 1548px;
+  left: 143px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.overlap-2 {
+  position: absolute;
+  width: 171px;
+  height: 233px;
+  top: 1582px;
+  left: 131px;
+}
+
+.p {
+  position: absolute;
+  width: 145px;
+  top: 200px;
+  left: 12px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.mokapiscas-de-panga {
+  position: absolute;
+  width: 171px;
+  height: 209px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.overlap-3 {
+  position: absolute;
+  width: 268px;
+  height: 499px;
+  top: 319px;
+  left: 397px;
+}
+
+.text-wrapper-5 {
+  position: absolute;
+  width: 145px;
+  top: 219px;
+  left: 70px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.text-wrapper-6 {
+  position: absolute;
+  width: 193px;
+  top: 466px;
+  left: 46px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.img {
+  position: absolute;
+  width: 268px;
+  height: 242px;
+  top: 242px;
+  left: 0;
+}
+
+.FORMADOS-DE-PEIXE {
+  width: 208px;
+  top: 0;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  height: 220px;
+}
+
+.overlap-4 {
+  position: absolute;
+  width: 178px;
+  height: 245px;
+  top: 831px;
+  left: 434px;
+}
+
+.text-wrapper-7 {
+  position: absolute;
+  width: 145px;
+  top: 212px;
+  left: 33px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.FILEZINHO-EMPANADO-2 {
+  position: absolute;
+  width: 178px;
+  height: 213px;
+  top: 0;
+  left: 0;
+}
+
+.text-wrapper-8 {
+  position: absolute;
+  width: 145px;
+  height: 33px;
+  top: 1301px;
+  left: 467px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.overlap-5 {
+  position: absolute;
+  width: 174px;
+  height: 267px;
+  top: 1548px;
+  left: 453px;
+}
+
+.text-wrapper-9 {
+  position: absolute;
+  width: 145px;
+  top: 0;
+  left: 14px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.text-wrapper-10 {
+  position: absolute;
+  width: 145px;
+  height: 33px;
+  top: 234px;
+  left: 14px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.lulapopsgrmokapf {
+  position: absolute;
+  width: 174px;
+  height: 218px;
+  top: 28px;
+  left: 0;
+  object-fit: cover;
+}
+
+.text-wrapper-11 {
+  width: 145px;
+  top: 538px;
+  left: 791px;
+  position: absolute;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.overlap-6 {
+  position: absolute;
+  width: 178px;
+  height: 233px;
+  top: 585px;
+  left: 776px;
+}
+
+.text-wrapper-12 {
+  width: 175px;
+  top: 200px;
+  left: 0;
+  position: absolute;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.FILEZINHO-EMPANADO-3 {
+  position: absolute;
+  width: 174px;
+  height: 213px;
+  top: 0;
+  left: 4px;
+}
+
+.text-wrapper-13 {
+  position: absolute;
+  width: 145px;
+  top: 1043px;
+  left: 796px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.text-wrapper-14 {
+  position: absolute;
+  width: 145px;
+  top: 1301px;
+  left: 791px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.text-wrapper-15 {
+  position: absolute;
+  width: 145px;
+  top: 1548px;
+  left: 791px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.FILEZINHO-EMPANADO-4 {
+  position: absolute;
+  width: 214px;
+  height: 193px;
+  top: 582px;
+  left: 120px;
+}
+
+.FILEZINHO-EMPANADO-5 {
+  position: absolute;
+  width: 205px;
+  height: 196px;
+  top: 838px;
+  left: 104px;
+}
+
+.FILEZINHO-EMPANADO-6 {
+  position: absolute;
+  width: 212px;
+  height: 191px;
+  top: 1095px;
+  left: 108px;
+  object-fit: cover;
+}
+
+.FILEZINHO-EMPANADO-7 {
+  position: absolute;
+  width: 212px;
+  height: 191px;
+  top: 1095px;
+  left: 434px;
+  object-fit: cover;
+}
+
+.FILEZINHO-EMPANADO-8 {
+  position: absolute;
+  width: 208px;
+  height: 187px;
+  top: 1351px;
+  left: 438px;
+}
+
+.FILEZINHO-EMPANADO-9 {
+  position: absolute;
+  width: 208px;
+  height: 205px;
+  top: 835px;
+  left: 764px;
+}
+
+.FILEZINHO-EMPANADO-10 {
+  position: absolute;
+  width: 212px;
+  height: 191px;
+  top: 1095px;
+  left: 760px;
+  object-fit: cover;
+}
+
+.FILEZINHO-EMPANADO-11 {
+  position: absolute;
+  width: 203px;
+  height: 193px;
+  top: 1351px;
+  left: 767px;
+}
+
+.FORMADOS-DE-PEIXE-2 {
+  width: 207px;
+  top: 308px;
+  left: 764px;
+  position: absolute;
+  height: 220px;
+}
