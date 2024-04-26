@@ -21,19 +21,11 @@
   object-fit: cover;
 }
 
-.overlap {
-  position: absolute;
-  width: 269px;
-  height: 261px;
-  top: 310px;
-  left: 91px;
-}
-
 .text-wrapper {
   position: absolute;
-  width: 145px;
-  top: 228px;
-  left: 60px;
+  width: 155px;
+  top: 538px;
+  left: 142px;
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
@@ -47,8 +39,8 @@
   position: absolute;
   width: 269px;
   height: 243px;
-  top: 0;
-  left: 0;
+  top: 1351px;
+  left: 767px;
   object-fit: cover;
 }
 
@@ -109,19 +101,11 @@
     line-height: normal;
 }
 
-.overlap-2 {
-  position: absolute;
-  width: 171px;
-  height: 233px;
-  top: 1582px;
-  left: 131px;
-}
-
 .p {
   position: absolute;
     width: 155px;
-    top: 186px;
-    left: 2px;
+    top: 524px;
+    left: 470px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
     color: #000000;
@@ -133,26 +117,18 @@
 
 .mokapiscas-de-panga {
   position: absolute;
-  width: 171px;
-  height: 209px;
-  top: 0;
-  left: 0;
-  object-fit: cover;
-}
-
-.overlap-3 {
-  position: absolute;
-  width: 268px;
-  height: 499px;
-  top: 319px;
-  left: 397px;
+    width: 200px;
+    height: 230px;
+    top: 317px;
+    left: 451px;
+    object-fit: cover;
 }
 
 .text-wrapper-5 {
   position: absolute;
   width: 145px;
-  top: 219px;
-  left: 76px;
+  top: 1538px;
+  left: 473px;
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
@@ -165,8 +141,8 @@
 .text-wrapper-6 {
   position: absolute;
     width: 180px;
-    top: 453px;
-    left: 51px;
+    top: 772px;
+    left: 448px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
     color: #000000;
@@ -180,32 +156,24 @@
   position: absolute;
   width: 268px;
   height: 242px;
-  top: 242px;
-  left: 0;
+  top: 1242px;
+  left: 397px;
 }
 
 .FORMADOS-DE-PEIXE {
   width: 208px;
-  top: 0;
-  left: 39px;
+  top: 561px;
+  left: 436px;
   object-fit: cover;
   position: absolute;
   height: 220px;
 }
 
-.overlap-4 {
-  position: absolute;
-  width: 178px;
-  height: 245px;
-  top: 831px;
-  left: 434px;
-}
-
 .text-wrapper-7 {
   position: absolute;
   width: 145px;
-  top: 212px;
-  left: 20px;
+  top: 1043px;
+  left: 454px;
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
@@ -219,8 +187,8 @@
   position: absolute;
   width: 178px;
   height: 213px;
-  top: 0;
-  left: 0;
+  top: 831px;
+  left: 434px;
 }
 
 .text-wrapper-8 {
@@ -238,19 +206,11 @@
   line-height: normal;
 }
 
-.overlap-5 {
-  position: absolute;
-  width: 174px;
-  height: 267px;
-  top: 1548px;
-  left: 453px;
-}
-
 .text-wrapper-9 {
   position: absolute;
   width: 145px;
-  top: -18px;
-  left: 18px;
+  top: 1530px;
+  left: 471px;
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
@@ -262,31 +222,31 @@
 
 .text-wrapper-10 {
   position: absolute;
-  width: 145px;
-  height: 33px;
-  top: 234px;
-  left: 14px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 14px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    width: 145px;
+    height: 33px;
+    top: 538px;
+    left: 795px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .lulapopsgrmokapf {
   position: absolute;
-  width: 174px;
-  height: 218px;
-  top: 28px;
-  left: 0;
-  object-fit: cover;
+    width: 200px;
+    height: 230px;
+    top: 316px;
+    left: 765px;
+    object-fit: cover;
 }
 
 .text-wrapper-11 {
   width: 145px;
-  top: 538px;
+  top: 1538px;
   left: 791px;
   position: absolute;
   font-family: "Montserrat-Bold", Helvetica;
@@ -298,18 +258,10 @@
   line-height: normal;
 }
 
-.overlap-6 {
-  position: absolute;
-  width: 178px;
-  height: 233px;
-  top: 585px;
-  left: 776px;
-}
-
 .text-wrapper-12 {
   width: 185px;
-    top: 187px;
-    left: -6px;
+    top: 1045px;
+    left: 770px;
     position: absolute;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
@@ -324,8 +276,8 @@
   position: absolute;
   width: 174px;
   height: 213px;
-  top: 0;
-  left: 4px;
+  top: 585px;
+  left: 780px;
 }
 
 .text-wrapper-13 {
@@ -368,8 +320,22 @@
     text-align: center;
     letter-spacing: 0;
     line-height: normal;
-}
+  }
 
+.text-wrapper-16 {
+  position: absolute;
+    width: 185px;
+    top: 1768px;
+    left: 788px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+    
 .FILEZINHO-EMPANADO-4 {
   position: absolute;
   width: 214px;
@@ -431,15 +397,23 @@
 
 .FILEZINHO-EMPANADO-11 {
   position: absolute;
+    width: 200px;
+    height: 230px;
+    top: 310px;
+    left: 125px;
+}
+
+.FILEZINHO-EMPANADO-12 {
+  position: absolute;
   width: 203px;
   height: 193px;
-  top: 1351px;
+  top: 1606px;
   left: 767px;
 }
 
 .FORMADOS-DE-PEIXE-2 {
   width: 207px;
-  top: 308px;
+  top: 1308px;
   left: 764px;
   position: absolute;
   height: 220px;

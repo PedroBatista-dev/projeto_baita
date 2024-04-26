@@ -23,6 +23,7 @@ import { PeixeComponent } from './pages/peixe/peixe.component';
 import { PorkitosComponent } from './pages/porkitos/porkitos.component';
 import { SchnitzelComponent } from './pages/schnitzel/schnitzel.component';
 import { TilapiaFileComponent } from './pages/tilapia-file/tilapia-file.component';
+import { FrangoApimentadoComponent } from './pages/frango-apimentado/frango-apimentado.component';
 
 @NgModule({
   declarations: [
@@ -44,7 +45,8 @@ import { TilapiaFileComponent } from './pages/tilapia-file/tilapia-file.componen
     PeixeComponent,
     PorkitosComponent,
     SchnitzelComponent,
-    TilapiaFileComponent
+    TilapiaFileComponent,
+    FrangoApimentadoComponent
   ],
   imports: [
     BrowserModule,

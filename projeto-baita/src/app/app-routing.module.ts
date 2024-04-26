@@ -18,6 +18,7 @@ import { PeixeComponent } from './pages/peixe/peixe.component';
 import { PorkitosComponent } from './pages/porkitos/porkitos.component';
 import { SchnitzelComponent } from './pages/schnitzel/schnitzel.component';
 import { TilapiaFileComponent } from './pages/tilapia-file/tilapia-file.component';
+import { FrangoApimentadoComponent } from './pages/frango-apimentado/frango-apimentado.component';
 
 const routes: Routes = [
   { path: 'inicio', component: InicioComponent },
@@ -38,6 +39,7 @@ const routes: Routes = [
   { path: 'porkitos', component: PorkitosComponent },
   { path: 'schnitzel', component: SchnitzelComponent },
   { path: 'tilapia-file', component: TilapiaFileComponent },
+  { path: 'frango-apimentado', component: FrangoApimentadoComponent },
   { path: '', redirectTo: '/inicio', pathMatch: 'full' },
 ];
 

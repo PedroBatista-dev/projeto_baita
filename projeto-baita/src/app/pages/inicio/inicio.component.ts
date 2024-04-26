@@ -38,6 +38,7 @@ export class InicioComponent {
   animationState14 = '';
   animationState15 = '';
   animationState16 = '';
+  animationState17 = '';
 
   constructor(private router: Router) {}
 
@@ -155,6 +156,13 @@ export class InicioComponent {
 
   onClick16(rota: string) {
     this.animationState16 = 'clicked';
+    setTimeout(() => {
+      this.router.navigate([rota]); // Substitua '/outra-tela' pela rota que você deseja navegar
+    }, 300); // Tempo da animação em milissegundos
+  }
+  
+  onClick17(rota: string) {
+    this.animationState17 = 'clicked';
     setTimeout(() => {
       this.router.navigate([rota]); // Substitua '/outra-tela' pela rota que você deseja navegar
     }, 300); // Tempo da animação em milissegundos
