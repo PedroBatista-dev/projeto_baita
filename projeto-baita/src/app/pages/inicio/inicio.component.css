@@ -14,10 +14,10 @@
 
 .CAMARO-CINZA {
   position: absolute;
-  width: 160px;
-  height: 187px;
-  top: 1351px;
-  left: 124px;
+  width: 170px;
+  height: 197px;
+  top: 581px;
+  left: 134px;
   object-fit: cover;
 }
 
@@ -37,18 +37,18 @@
 
 .FILEZINHO-EMPANADO {
   position: absolute;
-  width: 269px;
-  height: 243px;
-  top: 1351px;
-  left: 767px;
-  object-fit: cover;
+    width: 200px;
+    height: 266px;
+    top: 1059px;
+    left: 445px;
+    object-fit: cover;
 }
 
 .div {
   position: absolute;
     width: 160px;
-    top: 772px;
-    left: 141px;
+    top: 1767px;
+    left: 131px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
     color: #000000;
@@ -60,23 +60,23 @@
 
 .text-wrapper-2 {
   position: absolute;
-    width: 145px;
-    height: 33px;
-    top: 1043px;
-    left: 135px;
-    font-family: "Montserrat-Bold", Helvetica;
-    font-weight: 700;
-    color: #000000;
-    font-size: 14px;
-    text-align: center;
-    letter-spacing: 0;
-    line-height: normal;
+  width: 125px;
+  height: 33px;
+  top: 786px;
+  left: 485px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
 }
 
 .text-wrapper-3 {
   position: absolute;
     width: 145px;
-    top: 1301px;
+    top: 1545px;
     left: 138px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
@@ -89,9 +89,9 @@
 
 .text-wrapper-4 {
   position: absolute;
-    width: 145px;
-    top: 1545px;
-    left: 132px;
+    width: 125px;
+    top: 786px;
+    left: 155px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
     color: #000000;
@@ -127,8 +127,8 @@
 .text-wrapper-5 {
   position: absolute;
   width: 145px;
-  top: 1538px;
-  left: 473px;
+  top: 1302px;
+  left: 142px;
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
@@ -141,8 +141,8 @@
 .text-wrapper-6 {
   position: absolute;
     width: 180px;
-    top: 772px;
-    left: 448px;
+    top: 1767px;
+    left: 780px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
     color: #000000;
@@ -154,70 +154,70 @@
 
 .img {
   position: absolute;
-  width: 268px;
-  height: 242px;
-  top: 1242px;
-  left: 397px;
+    width: 268px;
+    height: 249px;
+    top: 1557px;
+    left: 727px;
 }
 
 .FORMADOS-DE-PEIXE {
-  width: 208px;
-  top: 561px;
-  left: 436px;
-  object-fit: cover;
-  position: absolute;
-  height: 220px;
+  width: 180px;
+    top: 1068px;
+    left: 120px;
+    object-fit: cover;
+    position: absolute;
+    height: 240px;
 }
 
 .text-wrapper-7 {
   position: absolute;
-  width: 145px;
-  top: 1043px;
-  left: 454px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 14px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    width: 145px;
+    top: 1043px;
+    left: 148px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .FILEZINHO-EMPANADO-2 {
   position: absolute;
-  width: 178px;
-  height: 213px;
-  top: 831px;
-  left: 434px;
+    width: 168px;
+    height: 223px;
+    top: 820px;
+    left: 134px;
 }
 
 .text-wrapper-8 {
   position: absolute;
-  width: 145px;
-  height: 33px;
-  top: 1301px;
-  left: 467px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 14px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    width: 125px;
+    height: 33px;
+    top: 786px;
+    left: 808px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .text-wrapper-9 {
   position: absolute;
-  width: 145px;
-  top: 1530px;
-  left: 471px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 14px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    width: 145px;
+    top: 1028px;
+    left: 798px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .text-wrapper-10 {
@@ -246,22 +246,8 @@
 
 .text-wrapper-11 {
   width: 145px;
-  top: 1538px;
-  left: 791px;
-  position: absolute;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 14px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.text-wrapper-12 {
-  width: 185px;
-    top: 1045px;
-    left: 770px;
+    top: 1544px;
+    left: 797px;
     position: absolute;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
@@ -272,19 +258,33 @@
     line-height: normal;
 }
 
+.text-wrapper-12 {
+  width: 185px;
+  top: 1767px;
+  left: 450px;
+  position: absolute;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
 .FILEZINHO-EMPANADO-3 {
   position: absolute;
-  width: 174px;
-  height: 213px;
-  top: 585px;
-  left: 780px;
+    width: 174px;
+    height: 217px;
+    top: 1577px;
+    left: 461px;
 }
 
 .text-wrapper-13 {
   position: absolute;
     width: 145px;
     top: 1028px;
-    left: 796px;
+    left: 470px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
     color: #000000;
@@ -297,8 +297,8 @@
 .text-wrapper-14 {
   position: absolute;
   width: 145px;
-  top: 1301px;
-  left: 791px;
+  top: 1544px;
+  left: 471px;
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
   color: #000000;
@@ -310,23 +310,23 @@
 
 .text-wrapper-15 {
   position: absolute;
-    width: 155px;
-    top: 1530px;
-    left: 788px;
-    font-family: "Montserrat-Bold", Helvetica;
-    font-weight: 700;
-    color: #000000;
-    font-size: 14px;
-    text-align: center;
-    letter-spacing: 0;
-    line-height: normal;
+  width: 155px;
+  top: 1290px;
+  left: 467px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
   }
 
 .text-wrapper-16 {
   position: absolute;
     width: 185px;
-    top: 1768px;
-    left: 788px;
+    top: 1288px;
+    left: 777px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
     color: #000000;
@@ -338,83 +338,83 @@
     
 .FILEZINHO-EMPANADO-4 {
   position: absolute;
-  width: 214px;
-  height: 193px;
-  top: 582px;
-  left: 120px;
+    width: 204px;
+    height: 220px;
+    top: 1568px;
+    left: 110px;
 }
 
 .FILEZINHO-EMPANADO-5 {
   position: absolute;
-  width: 205px;
-  height: 196px;
-  top: 838px;
-  left: 104px;
+  width: 195px;
+  height: 234px;
+  top: 560px;
+  left: 446px;
 }
 
 .FILEZINHO-EMPANADO-6 {
   position: absolute;
   width: 212px;
   height: 191px;
-  top: 1095px;
-  left: 108px;
+  top: 1345px;
+  left: 110px;
   object-fit: cover;
 }
 
 .FILEZINHO-EMPANADO-7 {
   position: absolute;
-  width: 212px;
-  height: 191px;
-  top: 1095px;
-  left: 434px;
-  object-fit: cover;
+    width: 169px;
+    height: 228px;
+    top: 568px;
+    left: 780px;
+    object-fit: cover;
 }
 
 .FILEZINHO-EMPANADO-8 {
   position: absolute;
-  width: 208px;
-  height: 187px;
-  top: 1351px;
-  left: 438px;
+  width: 188px;
+  height: 240px;
+  top: 810px;
+  left: 775px;
 }
 
 .FILEZINHO-EMPANADO-9 {
   position: absolute;
-  width: 208px;
-  height: 205px;
-  top: 835px;
-  left: 764px;
+  width: 198px;
+  height: 235px;
+  top: 815px;
+  left: 444px;
 }
 
 .FILEZINHO-EMPANADO-10 {
   position: absolute;
-  width: 212px;
-  height: 191px;
-  top: 1095px;
-  left: 760px;
-  object-fit: cover;
+    width: 212px;
+    height: 192px;
+    top: 1345px;
+    left: 441px;
+    object-fit: cover;
 }
 
 .FILEZINHO-EMPANADO-11 {
   position: absolute;
     width: 200px;
     height: 230px;
-    top: 310px;
+    top: 319px;
     left: 125px;
 }
 
 .FILEZINHO-EMPANADO-12 {
   position: absolute;
-  width: 203px;
-  height: 193px;
-  top: 1606px;
-  left: 767px;
+    width: 203px;
+    height: 275px;
+    top: 1058px;
+    left: 767px;
 }
 
 .FORMADOS-DE-PEIXE-2 {
-  width: 207px;
-  top: 1308px;
-  left: 764px;
-  position: absolute;
-  height: 220px;
+  width: 197px;
+    top: 1301px;
+    left: 775px;
+    position: absolute;
+    height: 253px;
 }
