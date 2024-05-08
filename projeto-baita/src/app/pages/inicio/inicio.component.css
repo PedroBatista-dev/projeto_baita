@@ -15,8 +15,8 @@
 .CAMARO-CINZA {
   position: absolute;
   width: 170px;
-  height: 197px;
-  top: 581px;
+  height: 250px;
+  top: 560px;
   left: 134px;
   object-fit: cover;
 }
@@ -38,8 +38,8 @@
 .FILEZINHO-EMPANADO {
   position: absolute;
     width: 200px;
-    height: 266px;
-    top: 1059px;
+    height: 272px;
+    top: 1060px;
     left: 445px;
     object-fit: cover;
 }
@@ -60,24 +60,10 @@
 
 .text-wrapper-2 {
   position: absolute;
-  width: 125px;
-  height: 33px;
-  top: 786px;
-  left: 485px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 14px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
-}
-
-.text-wrapper-3 {
-  position: absolute;
-    width: 145px;
-    top: 1545px;
-    left: 138px;
+    width: 126px;
+    height: 33px;
+    top: 786px;
+    left: 483px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
     color: #000000;
@@ -87,9 +73,23 @@
     line-height: normal;
 }
 
+.text-wrapper-3 {
+  position: absolute;
+  width: 103px;
+  top: 1545px;
+  left: 162px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
 .text-wrapper-4 {
   position: absolute;
-    width: 125px;
+    width: 126px;
     top: 786px;
     left: 155px;
     font-family: "Montserrat-Bold", Helvetica;
@@ -154,19 +154,19 @@
 
 .img {
   position: absolute;
-    width: 268px;
-    height: 249px;
-    top: 1557px;
-    left: 727px;
+  width: 225px;
+  height: 249px;
+  top: 1560px;
+  left: 758px;
 }
 
 .FORMADOS-DE-PEIXE {
   width: 180px;
-    top: 1068px;
-    left: 120px;
-    object-fit: cover;
-    position: absolute;
-    height: 240px;
+  top: 1063px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  height: 266px;
 }
 
 .text-wrapper-7 {
@@ -185,18 +185,18 @@
 
 .FILEZINHO-EMPANADO-2 {
   position: absolute;
-    width: 168px;
-    height: 223px;
-    top: 820px;
-    left: 134px;
+  width: 190px;
+  height: 265px;
+  top: 804px;
+  left: 125px;
 }
 
 .text-wrapper-8 {
   position: absolute;
-    width: 125px;
+    width: 137px;
     height: 33px;
     top: 786px;
-    left: 808px;
+    left: 795px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
     color: #000000;
@@ -222,10 +222,10 @@
 
 .text-wrapper-10 {
   position: absolute;
-    width: 145px;
+    width: 160px;
     height: 33px;
     top: 538px;
-    left: 795px;
+    left: 786px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
     color: #000000;
@@ -237,11 +237,11 @@
 
 .lulapopsgrmokapf {
   position: absolute;
-    width: 200px;
-    height: 230px;
-    top: 316px;
-    left: 765px;
-    object-fit: cover;
+  width: 200px;
+  height: 270px;
+  top: 297px;
+  left: 765px;
+  object-fit: cover;
 }
 
 .text-wrapper-11 {
@@ -259,9 +259,9 @@
 }
 
 .text-wrapper-12 {
-  width: 185px;
+  width: 122px;
   top: 1767px;
-  left: 450px;
+  left: 485px;
   position: absolute;
   font-family: "Montserrat-Bold", Helvetica;
   font-weight: 700;
@@ -274,10 +274,10 @@
 
 .FILEZINHO-EMPANADO-3 {
   position: absolute;
-    width: 174px;
-    height: 217px;
-    top: 1577px;
-    left: 461px;
+    width: 215px;
+    height: 235px;
+    top: 1566px;
+    left: 440px;
 }
 
 .text-wrapper-13 {
@@ -296,16 +296,16 @@
 
 .text-wrapper-14 {
   position: absolute;
-  width: 145px;
-  top: 1544px;
-  left: 471px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 14px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    width: 103px;
+    top: 1544px;
+    left: 495px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .text-wrapper-15 {
@@ -338,16 +338,16 @@
     
 .FILEZINHO-EMPANADO-4 {
   position: absolute;
-    width: 204px;
-    height: 220px;
-    top: 1568px;
+    width: 203px;
+    height: 210px;
+    top: 1576px;
     left: 110px;
 }
 
 .FILEZINHO-EMPANADO-5 {
   position: absolute;
   width: 195px;
-  height: 234px;
+  height: 251px;
   top: 560px;
   left: 446px;
 }
@@ -364,26 +364,26 @@
 .FILEZINHO-EMPANADO-7 {
   position: absolute;
     width: 169px;
-    height: 228px;
-    top: 568px;
+    height: 250px;
+    top: 560px;
     left: 780px;
     object-fit: cover;
 }
 
 .FILEZINHO-EMPANADO-8 {
   position: absolute;
-  width: 188px;
-  height: 240px;
-  top: 810px;
-  left: 775px;
+    width: 188px;
+    height: 270px;
+    top: 803px;
+    left: 775px;
 }
 
 .FILEZINHO-EMPANADO-9 {
   position: absolute;
-  width: 198px;
-  height: 235px;
-  top: 815px;
-  left: 444px;
+    width: 198px;
+    height: 263px;
+    top: 804px;
+    left: 444px;
 }
 
 .FILEZINHO-EMPANADO-10 {
@@ -398,8 +398,8 @@
 .FILEZINHO-EMPANADO-11 {
   position: absolute;
     width: 200px;
-    height: 230px;
-    top: 319px;
+    height: 275px;
+    top: 295px;
     left: 125px;
 }
 
@@ -412,9 +412,9 @@
 }
 
 .FORMADOS-DE-PEIXE-2 {
-  width: 197px;
-    top: 1301px;
-    left: 775px;
+  width: 183px;
+    top: 1345px;
+    left: 773px;
     position: absolute;
-    height: 253px;
+    height: 192px;
 }
