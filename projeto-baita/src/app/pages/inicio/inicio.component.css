@@ -60,17 +60,17 @@
 
 .text-wrapper-2 {
   position: absolute;
-    width: 126px;
-    height: 33px;
-    top: 786px;
-    left: 483px;
-    font-family: "Montserrat-Bold", Helvetica;
-    font-weight: 700;
-    color: #000000;
-    font-size: 14px;
-    text-align: center;
-    letter-spacing: 0;
-    line-height: normal;
+  width: 135px;
+  height: 33px;
+  top: 786px;
+  left: 479px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
 }
 
 .text-wrapper-3 {
