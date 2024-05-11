@@ -47,7 +47,7 @@
 .div {
   position: absolute;
     width: 160px;
-    top: 1767px;
+    top: 1781px;
     left: 131px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
@@ -89,7 +89,7 @@
 
 .text-wrapper-4 {
   position: absolute;
-    width: 126px;
+    width: 127px;
     top: 786px;
     left: 155px;
     font-family: "Montserrat-Bold", Helvetica;
@@ -104,8 +104,8 @@
 .p {
   position: absolute;
     width: 155px;
-    top: 524px;
-    left: 470px;
+    top: 538px;
+    left: 472px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
     color: #000000;
@@ -141,7 +141,7 @@
 .text-wrapper-6 {
   position: absolute;
     width: 180px;
-    top: 1767px;
+    top: 1781px;
     left: 780px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
@@ -209,8 +209,8 @@
 .text-wrapper-9 {
   position: absolute;
     width: 145px;
-    top: 1028px;
-    left: 798px;
+    top: 1042px;
+    left: 796px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
     color: #000000;
@@ -260,16 +260,16 @@
 
 .text-wrapper-12 {
   width: 122px;
-  top: 1767px;
-  left: 485px;
-  position: absolute;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 14px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    top: 1780px;
+    left: 487px;
+    position: absolute;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
 }
 
 .FILEZINHO-EMPANADO-3 {
@@ -283,7 +283,7 @@
 .text-wrapper-13 {
   position: absolute;
     width: 145px;
-    top: 1028px;
+    top: 1043px;
     left: 470px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;
@@ -310,22 +310,22 @@
 
 .text-wrapper-15 {
   position: absolute;
-  width: 155px;
-  top: 1290px;
-  left: 467px;
-  font-family: "Montserrat-Bold", Helvetica;
-  font-weight: 700;
-  color: #000000;
-  font-size: 14px;
-  text-align: center;
-  letter-spacing: 0;
-  line-height: normal;
+    width: 155px;
+    top: 1303px;
+    left: 467px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
   }
 
 .text-wrapper-16 {
   position: absolute;
     width: 185px;
-    top: 1288px;
+    top: 1302px;
     left: 777px;
     font-family: "Montserrat-Bold", Helvetica;
     font-weight: 700;

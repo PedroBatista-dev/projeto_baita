@@ -53,3 +53,16 @@
   left: 77px;
   object-fit: cover;
 }
+
+button {
+  display: flex;
+  align-items: center;
+  color: white;
+  position: absolute;
+  top: 162px;
+  left: 913px;
+}
+
+mat-icon {
+  margin-right: 8px; /* Adiciona um pequeno espaço entre o ícone e a palavra */
+}

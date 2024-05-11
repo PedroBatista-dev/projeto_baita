@@ -5,6 +5,9 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
+import { MatButtonModule } from '@angular/material/button';
+import { MatIconModule } from '@angular/material/icon';
+
 import { InicioComponent } from './pages/inicio/inicio.component';
 import { CamaraoEmpanadoComponent } from './pages/camarao-empanado/camarao-empanado.component';
 import { LulaComponent } from './pages/lula/lula.component';
@@ -24,6 +27,7 @@ import { PorkitosComponent } from './pages/porkitos/porkitos.component';
 import { SchnitzelComponent } from './pages/schnitzel/schnitzel.component';
 import { TilapiaFileComponent } from './pages/tilapia-file/tilapia-file.component';
 import { FrangoApimentadoComponent } from './pages/frango-apimentado/frango-apimentado.component';
+import { CamaraoFichaComponent } from './pages/camarao-ficha/camarao-ficha.component';
 
 @NgModule({
   declarations: [
@@ -46,12 +50,15 @@ import { FrangoApimentadoComponent } from './pages/frango-apimentado/frango-apim
     PorkitosComponent,
     SchnitzelComponent,
     TilapiaFileComponent,
-    FrangoApimentadoComponent
+    FrangoApimentadoComponent,
+    CamaraoFichaComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
+    MatButtonModule,
+    MatIconModule
   ],
   providers: [],
   bootstrap: [AppComponent]
