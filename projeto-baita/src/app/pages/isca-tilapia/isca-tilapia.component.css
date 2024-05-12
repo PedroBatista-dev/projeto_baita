@@ -53,3 +53,30 @@
   left: 77px;
   object-fit: cover;
 }
+
+.zoom-button {
+  position: absolute;
+    top: 153px;
+    left: 890px;
+    background-color: #f48c2c;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 50px;
+    border: none;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;        
+}
+
+/* Mudar a cor de fundo para um tom mais escuro no hover, opcional */
+.zoom-button:hover {
+  background-color: #db7b1b;
+}
+
+/* Estilos para o ícone */
+.zoom-button .mat-icon {
+  vertical-align: middle;
+}
