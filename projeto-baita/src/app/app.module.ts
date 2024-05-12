@@ -28,6 +28,23 @@ import { SchnitzelComponent } from './pages/schnitzel/schnitzel.component';
 import { TilapiaFileComponent } from './pages/tilapia-file/tilapia-file.component';
 import { FrangoApimentadoComponent } from './pages/frango-apimentado/frango-apimentado.component';
 import { CamaraoFichaComponent } from './pages/camarao-ficha/camarao-ficha.component';
+import { FrangoFichaComponent } from './pages/frango-ficha/frango-ficha.component';
+import { FrangoApimentadoFichaComponent } from './pages/frango-apimentado-ficha/frango-apimentado-ficha.component';
+import { FrangoCheddarFichaComponent } from './pages/frango-cheddar-ficha/frango-cheddar-ficha.component';
+import { FrangoCoxaFichaComponent } from './pages/frango-coxa-ficha/frango-coxa-ficha.component';
+import { FrangoFileFichaComponent } from './pages/frango-file-ficha/frango-file-ficha.component';
+import { FrangoQueijoFichaComponent } from './pages/frango-queijo-ficha/frango-queijo-ficha.component';
+import { FrangoSteakFichaComponent } from './pages/frango-steak-ficha/frango-steak-ficha.component';
+import { FrangoTirasFichaComponent } from './pages/frango-tiras-ficha/frango-tiras-ficha.component';
+import { FrangoVegetaisFichaComponent } from './pages/frango-vegetais-ficha/frango-vegetais-ficha.component';
+import { IscaTilapiaFichaComponent } from './pages/isca-tilapia-ficha/isca-tilapia-ficha.component';
+import { LulaFichaComponent } from './pages/lula-ficha/lula-ficha.component';
+import { PangasiusFichaComponent } from './pages/pangasius-ficha/pangasius-ficha.component';
+import { PeixeFichaComponent } from './pages/peixe-ficha/peixe-ficha.component';
+import { PolacaFichaComponent } from './pages/polaca-ficha/polaca-ficha.component';
+import { PorkitosFichaComponent } from './pages/porkitos-ficha/porkitos-ficha.component';
+import { SchnitzelFichaComponent } from './pages/schnitzel-ficha/schnitzel-ficha.component';
+import { TilapiaFileFichaComponent } from './pages/tilapia-file-ficha/tilapia-file-ficha.component';
 
 @NgModule({
   declarations: [
@@ -51,7 +68,24 @@ import { CamaraoFichaComponent } from './pages/camarao-ficha/camarao-ficha.compo
     SchnitzelComponent,
     TilapiaFileComponent,
     FrangoApimentadoComponent,
-    CamaraoFichaComponent
+    CamaraoFichaComponent,
+    FrangoFichaComponent,
+    FrangoApimentadoFichaComponent,
+    FrangoCheddarFichaComponent,
+    FrangoCoxaFichaComponent,
+    FrangoFileFichaComponent,
+    FrangoQueijoFichaComponent,
+    FrangoSteakFichaComponent,
+    FrangoTirasFichaComponent,
+    FrangoVegetaisFichaComponent,
+    IscaTilapiaFichaComponent,
+    LulaFichaComponent,
+    PangasiusFichaComponent,
+    PeixeFichaComponent,
+    PolacaFichaComponent,
+    PorkitosFichaComponent,
+    SchnitzelFichaComponent,
+    TilapiaFileFichaComponent
   ],
   imports: [
     BrowserModule,
