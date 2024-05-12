@@ -37,6 +37,24 @@ import { PolacaFichaComponent } from './pages/polaca-ficha/polaca-ficha.componen
 import { PorkitosFichaComponent } from './pages/porkitos-ficha/porkitos-ficha.component';
 import { SchnitzelFichaComponent } from './pages/schnitzel-ficha/schnitzel-ficha.component';
 import { TilapiaFileFichaComponent } from './pages/tilapia-file-ficha/tilapia-file-ficha.component';
+import { CamaraoFotoComponent } from './pages/camarao-foto/camarao-foto.component';
+import { FrangoFotoComponent } from './pages/frango-foto/frango-foto.component';
+import { FrangoApimentadoFotoComponent } from './pages/frango-apimentado-foto/frango-apimentado-foto.component';
+import { FrangoCheddarFotoComponent } from './pages/frango-cheddar-foto/frango-cheddar-foto.component';
+import { FrangoCoxaFotoComponent } from './pages/frango-coxa-foto/frango-coxa-foto.component';
+import { FrangoFileFotoComponent } from './pages/frango-file-foto/frango-file-foto.component';
+import { FrangoQueijoFotoComponent } from './pages/frango-queijo-foto/frango-queijo-foto.component';
+import { FrangoSteakFotoComponent } from './pages/frango-steak-foto/frango-steak-foto.component';
+import { FrangoTirasFotoComponent } from './pages/frango-tiras-foto/frango-tiras-foto.component';
+import { FrangoVegetaisFotoComponent } from './pages/frango-vegetais-foto/frango-vegetais-foto.component';
+import { IscaTilapiaFotoComponent } from './pages/isca-tilapia-foto/isca-tilapia-foto.component';
+import { LulaFotoComponent } from './pages/lula-foto/lula-foto.component';
+import { PangasiusFotoComponent } from './pages/pangasius-foto/pangasius-foto.component';
+import { PeixeFotoComponent } from './pages/peixe-foto/peixe-foto.component';
+import { PolacaFotoComponent } from './pages/polaca-foto/polaca-foto.component';
+import { PorkitosFotoComponent } from './pages/porkitos-foto/porkitos-foto.component';
+import { SchnitzelFotoComponent } from './pages/schnitzel-foto/schnitzel-foto.component';
+import { TilapiaFileFotoComponent } from './pages/tilapia-file-foto/tilapia-file-foto.component';
 
 const routes: Routes = [
   { path: 'inicio', component: InicioComponent },
@@ -76,6 +94,24 @@ const routes: Routes = [
   { path: 'porkitos-ficha', component: PorkitosFichaComponent },
   { path: 'schnitzel-ficha', component: SchnitzelFichaComponent },
   { path: 'tilapia-file-ficha', component: TilapiaFileFichaComponent },
+  { path: 'camarao-foto', component: CamaraoFotoComponent },
+  { path: 'frango-foto', component: FrangoFotoComponent },
+  { path: 'frango-apimentado-foto', component: FrangoApimentadoFotoComponent },
+  { path: 'frango-cheddar-foto', component: FrangoCheddarFotoComponent },
+  { path: 'frango-coxa-foto', component: FrangoCoxaFotoComponent },
+  { path: 'frango-file-foto', component: FrangoFileFotoComponent },
+  { path: 'frango-queijo-foto', component: FrangoQueijoFotoComponent },
+  { path: 'frango-steak-foto', component: FrangoSteakFotoComponent },
+  { path: 'frango-tiras-foto', component: FrangoTirasFotoComponent },
+  { path: 'frango-vegetais-foto', component: FrangoVegetaisFotoComponent },
+  { path: 'isca-tilapia-foto', component: IscaTilapiaFotoComponent },
+  { path: 'lula-foto', component: LulaFotoComponent },
+  { path: 'pangasius-foto', component: PangasiusFotoComponent },
+  { path: 'peixe-foto', component: PeixeFotoComponent },
+  { path: 'polaca-foto', component: PolacaFotoComponent },
+  { path: 'porkitos-foto', component: PorkitosFotoComponent },
+  { path: 'schnitzel-foto', component: SchnitzelFotoComponent },
+  { path: 'tilapia-file-foto', component: TilapiaFileFotoComponent },
   { path: '', redirectTo: '/inicio', pathMatch: 'full' },
 ];
 

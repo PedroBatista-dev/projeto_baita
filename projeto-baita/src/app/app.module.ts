@@ -45,6 +45,24 @@ import { PolacaFichaComponent } from './pages/polaca-ficha/polaca-ficha.componen
 import { PorkitosFichaComponent } from './pages/porkitos-ficha/porkitos-ficha.component';
 import { SchnitzelFichaComponent } from './pages/schnitzel-ficha/schnitzel-ficha.component';
 import { TilapiaFileFichaComponent } from './pages/tilapia-file-ficha/tilapia-file-ficha.component';
+import { CamaraoFotoComponent } from './pages/camarao-foto/camarao-foto.component';
+import { FrangoFotoComponent } from './pages/frango-foto/frango-foto.component';
+import { FrangoApimentadoFotoComponent } from './pages/frango-apimentado-foto/frango-apimentado-foto.component';
+import { FrangoCheddarFotoComponent } from './pages/frango-cheddar-foto/frango-cheddar-foto.component';
+import { FrangoCoxaFotoComponent } from './pages/frango-coxa-foto/frango-coxa-foto.component';
+import { FrangoFileFotoComponent } from './pages/frango-file-foto/frango-file-foto.component';
+import { FrangoQueijoFotoComponent } from './pages/frango-queijo-foto/frango-queijo-foto.component';
+import { FrangoSteakFotoComponent } from './pages/frango-steak-foto/frango-steak-foto.component';
+import { FrangoTirasFotoComponent } from './pages/frango-tiras-foto/frango-tiras-foto.component';
+import { FrangoVegetaisFotoComponent } from './pages/frango-vegetais-foto/frango-vegetais-foto.component';
+import { IscaTilapiaFotoComponent } from './pages/isca-tilapia-foto/isca-tilapia-foto.component';
+import { LulaFotoComponent } from './pages/lula-foto/lula-foto.component';
+import { PangasiusFotoComponent } from './pages/pangasius-foto/pangasius-foto.component';
+import { PeixeFotoComponent } from './pages/peixe-foto/peixe-foto.component';
+import { PolacaFotoComponent } from './pages/polaca-foto/polaca-foto.component';
+import { PorkitosFotoComponent } from './pages/porkitos-foto/porkitos-foto.component';
+import { SchnitzelFotoComponent } from './pages/schnitzel-foto/schnitzel-foto.component';
+import { TilapiaFileFotoComponent } from './pages/tilapia-file-foto/tilapia-file-foto.component';
 
 @NgModule({
   declarations: [
@@ -85,7 +103,25 @@ import { TilapiaFileFichaComponent } from './pages/tilapia-file-ficha/tilapia-fi
     PolacaFichaComponent,
     PorkitosFichaComponent,
     SchnitzelFichaComponent,
-    TilapiaFileFichaComponent
+    TilapiaFileFichaComponent,
+    CamaraoFotoComponent,
+    FrangoFotoComponent,
+    FrangoApimentadoFotoComponent,
+    FrangoCheddarFotoComponent,
+    FrangoCoxaFotoComponent,
+    FrangoFileFotoComponent,
+    FrangoQueijoFotoComponent,
+    FrangoSteakFotoComponent,
+    FrangoTirasFotoComponent,
+    FrangoVegetaisFotoComponent,
+    IscaTilapiaFotoComponent,
+    LulaFotoComponent,
+    PangasiusFotoComponent,
+    PeixeFotoComponent,
+    PolacaFotoComponent,
+    PorkitosFotoComponent,
+    SchnitzelFotoComponent,
+    TilapiaFileFotoComponent,
   ],
   imports: [
     BrowserModule,
