@@ -1,12 +1,45 @@
-.fundo {
+.overlap-group-wrapper {
   width: 1080px;
+  height: 1920px;
+  background-color: #bf9268;
+}
+
+.overlap-group {
+  position: relative;
   height: 1920px;
 }
 
-.close {
+.fundo {
   position: absolute;
-  width: 80px;
-  top: 0;
-  right: 18px;
+  width: 1080px;
+  top: 200px;
+  left: 0;
   object-fit: cover;
+}
+
+.close-button {
+  position: absolute;
+  top: 150px;
+  right: 15px;
+    background-color: #f48c2c;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 50px;
+    border: none;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;        
+}
+
+/* Mudar a cor de fundo para um tom mais escuro no hover, opcional */
+.close-button:hover {
+  background-color: #db7b1b;
+}
+
+/* Estilos para o ícone */
+.close-button .mat-icon {
+  vertical-align: middle;
 }
